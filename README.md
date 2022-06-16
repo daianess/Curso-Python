@@ -1,9 +1,5 @@
 # Curso Python
  Curso em vídeo (Python)
-<<<<<<< HEAD
-
-
-=======
  
 Python é uma linguagem ultra moderna, utilizada por grandes empresas como Google, YouTube, Industrial Light & Magic, Globo e muitas outras. Fácil de aprender, com código limpo e organizado, Python vem ganhando cada vez mais espaço. 
 
