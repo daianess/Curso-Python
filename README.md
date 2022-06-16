@@ -14,4 +14,4 @@ Python é uma linguagem ultra moderna, utilizada por grandes empresas como Googl
 <div align="center"> 
 <a href="https://www.cursoemvideo.com/curso/python-3-mundo-1/" target="_blank"><img src="https://user-images.githubusercontent.com/106653399/174101077-51ea841f-9dac-4477-b4a0-699195b29e48.jpg" target="_blank" width="700px"></a>
 </div>
->>>>>>> f6e7c3cf0de1be71c4d67c9f374e94a35130f1d9
+
