@@ -1,0 +1,1 @@
+# Exercício 012 - Faça um algoritimo que leia o peso de um produto e mostre seu novo preço, com 5% de desconto.
