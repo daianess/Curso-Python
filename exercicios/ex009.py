@@ -23,7 +23,6 @@ print('{} x 8 = {} ' .format(numero, m8))
 print('{} x 9 = {} ' .format(numero, m9))
 print('{} x 10 = {} ' .format(numero, m10))
 
-
 # ============================================== OU ============================================= #
 
 n = int(input('Digite um número para ver a tabuada: '))
